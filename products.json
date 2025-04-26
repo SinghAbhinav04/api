@@ -5,7 +5,7 @@
     "price": 25000,
     "stock": 20,
     "category_id": 1,
-    "img": "https://images.unsplash.com/photo-1615485923120-f5da7b6323a3",
+    "img": "https://images.unsplash.com/photo-1662490881182-7c94ac532557?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "rating": 4.8,
     "discount": 0.2,
     "place": "Yogyakarta, Indonesia"
@@ -16,7 +16,7 @@
     "price": 30000,
     "stock": 35,
     "category_id": 1,
-    "img": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2",
+    "img": "https://images.unsplash.com/photo-1675266123819-026acf00aefa?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "rating": 4.5,
     "discount": 0.1,
     "place": "Bandung, Indonesia"
@@ -27,7 +27,7 @@
     "price": 15000,
     "stock": 50,
     "category_id": 1,
-    "img": "https://images.unsplash.com/photo-1587067921300-4e74e1f9f1d8",
+    "img": "https://images.unsplash.com/photo-1668762924684-a9753a0a887c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "rating": 4.2,
     "discount": 0,
     "place": "Bali, Indonesia"
