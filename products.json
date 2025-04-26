@@ -1,23 +1,35 @@
 [
   {
     "id": 1,
-    "name": "Apple",
-    "price": 1.5,
-    "stock": 100,
-    "category": "Fruits"
+    "name": "Fresh Mango",
+    "price": 25000,
+    "stock": 20,
+    "category_id": 1,
+    "img": "https://images.unsplash.com/photo-1615485923120-f5da7b6323a3",
+    "rating": 4.8,
+    "discount": 0.2,
+    "place": "Yogyakarta, Indonesia"
   },
   {
     "id": 2,
-    "name": "Carrot",
-    "price": 0.5,
-    "stock": 200,
-    "category": "Veggies"
+    "name": "Red Apples",
+    "price": 30000,
+    "stock": 35,
+    "category_id": 1,
+    "img": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2",
+    "rating": 4.5,
+    "discount": 0.1,
+    "place": "Bandung, Indonesia"
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.2,
-    "stock": 150,
-    "category": "Buah"
+    "name": "Organic Bananas",
+    "price": 15000,
+    "stock": 50,
+    "category_id": 1,
+    "img": "https://images.unsplash.com/photo-1587067921300-4e74e1f9f1d8",
+    "rating": 4.2,
+    "discount": 0,
+    "place": "Bali, Indonesia"
   }
 ]
