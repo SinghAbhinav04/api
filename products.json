@@ -1,35 +1,35 @@
 [
   {
     "id": 1,
-    "name": "Fresh Mango",
-    "price": 25000,
+    "name": "Sugarcane Waste",
+    "price": 10,
     "stock": 20,
     "category_id": 1,
-    "img": "https://images.unsplash.com/photo-1662490881182-7c94ac532557?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "img": "https://images.unsplash.com/photo-1679543321530-4378c81af100?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "rating": 4.8,
     "discount": 0.2,
-    "place": "Yogyakarta, Indonesia"
+    "place": "Mohali, India"
   },
   {
     "id": 2,
-    "name": "Red Apples",
-    "price": 30000,
+    "name": "Apple Waste",
+    "price": 30,
     "stock": 35,
     "category_id": 1,
-    "img": "https://images.unsplash.com/photo-1675266123819-026acf00aefa?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "img": "https://www.kisanofindia.com/wp-content/uploads/2022/01/3645_1_1200-0-1.85_.jpg",
     "rating": 4.5,
     "discount": 0.1,
-    "place": "Bandung, Indonesia"
+    "place": "Baddi, Himachal"
   },
   {
     "id": 3,
-    "name": "Organic Bananas",
-    "price": 15000,
+    "name": "Banana Waste",
+    "price": 15,
     "stock": 50,
     "category_id": 1,
-    "img": "https://images.unsplash.com/photo-1668762924684-a9753a0a887c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgB7-LyWQcXGLefyxD2gUDs35CL1GOsefsA&s",
     "rating": 4.2,
     "discount": 0,
-    "place": "Bali, Indonesia"
+    "place": "Pinjore, Harayana"
   }
 ]
